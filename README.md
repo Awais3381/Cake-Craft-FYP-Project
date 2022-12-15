@@ -2,7 +2,7 @@
 
 We make it Right
 
-Setup
+# Setup
 Run the following commands from your terminal:
 git clone git@github.com:Awais3381/cakecraft.git to clone this repository
 flutter pub get in the project root directory to install all the required dependencies.
