@@ -1,4 +1,4 @@
-# cakecraft
+# Cake Craft
 
 A new Flutter project.
 
