@@ -5,7 +5,7 @@ We make it Right
 # Setup
 Run the following commands from your terminal:  
 git clone git@github.com:Awais3381/cakecraft.git to clone this repository  
-flutter pub get in the project root directory to install all the required dependencies.              
+flutter pub get in the project root directory to install all the required dependencies.  
 ![Screenshot_20221214_180410](https://user-images.githubusercontent.com/109672476/207810530-c5c92d68-5fcf-4576-9378-72c065881bd6.jpg)
 ![Screenshot_20221214_180412](https://user-images.githubusercontent.com/109672476/207810538-bb5599ba-d5b9-4211-93bc-71e9f384b1eb.jpg)
 ![Screenshot_20221214_180415](https://user-images.githubusercontent.com/109672476/207810540-23cfc8ee-0da5-47f5-adc2-bbafcf89ad8c.jpg)
