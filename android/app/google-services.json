@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "704158123871",
+    "project_id": "cakecraft-5fbec",
+    "storage_bucket": "cakecraft-5fbec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704158123871:android:1fe5e8f9680199e9e5d8ea",
+        "android_client_info": {
+          "package_name": "com.example.cakecraft"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "704158123871-ccfp68bee8gv4vfvrb452l3v1qr0uule.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIdzox2GOphke8g-wBThJS1vLf1kS1_OU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "704158123871-ccfp68bee8gv4vfvrb452l3v1qr0uule.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
